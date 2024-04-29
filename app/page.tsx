@@ -5,7 +5,7 @@ export default function Home() {
     <RootLayout>
       <div className="flex justify-center items-center h-screen">
         <div className="text-center">
-          <h1 className="text-4xl font-bold mb-6">Welcome to My Blog</h1>
+          <h1 className="text-4xl font-bold mb-6">Blog Website using Next </h1>
           <p className="text-lg mb-8">Discover insightful articles and stories written by our team of experts.</p>
           <Link href="/blogs" className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
               Explore Blogs
